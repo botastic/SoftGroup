@@ -1,4 +1,4 @@
-```
+``` yaml
 model:
   channels: 32  # number of base channel for the backbone network
   num_blocks: 7  # number of backbone blocks

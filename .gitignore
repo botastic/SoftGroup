@@ -80,3 +80,8 @@ dataset/s3dis/Stanford3dDataset_v1.2
 dataset/stpls3d/train
 dataset/stpls3d/val
 dataset/stpls3d/Synthetic_v3_InstanceSegmentation
+
+# ymir dataset files
+dataset/ymir/overfit_no_filter
+**/*.h5
+**/*.pth
